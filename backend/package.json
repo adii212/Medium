@@ -7,6 +7,7 @@
     "@adityapandey14980/common": "^1.0.0",
     "@prisma/client": "^5.14.0",
     "@prisma/extension-accelerate": "^1.1.0",
+    "cors": "^2.8.5",
     "hono": "^4.4.2",
     "prisma": "^5.14.0"
   },
